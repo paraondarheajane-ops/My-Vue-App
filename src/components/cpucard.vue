@@ -17,9 +17,9 @@ WITH GREAT POWER COMES GREAT RESPONSIBILITY
 <div class="line"></div>
 
 <p class="quote">
-"A Heritage of Excellence,
+"Powered by,
 <br />
-A Future of Faith"
+STARK INDUSTRIES"
 </p>
 
 </div>
@@ -29,7 +29,7 @@ A Future of Faith"
 .cpu-card{
 background:linear-gradient(
 135deg,
-#CBA100 0%,
+#911303 0%,
 #fffdf8 45%,
 #ffffff 100%
 );
@@ -68,7 +68,7 @@ margin:25px auto;
 
 .quote{
 font-size:1.3rem;
-font-style:italic;
-color:#555;
+font-style:bold;
+color:#555555;
 }
 </style>

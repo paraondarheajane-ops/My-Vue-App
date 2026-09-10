@@ -3,21 +3,21 @@
 <div class="hero">
 
 <span class="tag">
-ESTABLISHED 8974
+ESTABLISHED 2023
 </span>
 
 <h1>
-Exemplary
-<span>Christian</span>
+With Great Power
+<span>Comes Great</span>
 <br />
-Education for Life.
+RESPONSIBILITY
 </h1>
 
 <p class="description">
-A leading Christian institution in the Philippines,
-Central Philippine University nurtures intellectual
-growth and spiritual development through a commitment
-to Scientia et Fides (Science and Faith).
+A leading Spidey institution in New York,
+Peter Parker Academy nurtures intellectual
+growth and scientific development through a commitment
+to WITH GREAT POWER COMES GREAT RESPONSIBILITY.
 </p>
 
 <div class="buttons">
@@ -66,7 +66,7 @@ flex-direction:column;
 }
 
 .tag{
-color:#CBA100;
+color:#cb0e00;
 letter-spacing:3px;
 font-weight:600;
 margin-bottom:20px;
@@ -75,7 +75,7 @@ margin-bottom:20px;
 h1{
 font-size:4rem;
 line-height:1.1;
-color:#2B1B5E;
+color:#911212;
 }
 
 h1 span{
