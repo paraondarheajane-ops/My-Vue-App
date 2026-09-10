@@ -2,16 +2,16 @@
 <template>
 <div class="cpu-card">
 
-<img src="@/assets/cpu.png" alt="">
+<img src="@/assets/spiderman.png" alt="">
 
 <h2>
-Central Philippine
+Peter Parker
 <br />
-University
+Academy
 </h2>
 
 <p class="scientia">
-SCIENTIA ET FIDES
+WITH GREAT POWER COMES GREAT RESPONSIBILITY
 </p>
 
 <div class="line"></div>

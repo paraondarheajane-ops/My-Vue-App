@@ -2,10 +2,10 @@
     <nav class="navbar">
 
         <div class="logo">
-            <img src="@/assets/cpu.png" alt="">
+            <img src="@/assets/spiderman.png" alt="">
             <div>
-                <h2>Central Philippine University</h2>
-                <p>SCIENTIA ET FIDES</p>
+                <h2>Peter Parker Academy</h2>
+                <p>WITH GREAT POWER COMES GREAT RESPONSIBILITY</p>
             </div>
         </div>
 
